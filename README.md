@@ -35,8 +35,7 @@ More scripts will be added in the future.
 Each script or directory contains standalone code targeting a specific game. Load the script using your preferred Roblox script executor.
 
 ```
--- Example: load a script
-loadstring(game:HttpGet("URL"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aksaraax/as/refs/heads/main/loader.luau"))()
 ```
 
 Refer to individual directories for game-specific instructions.
