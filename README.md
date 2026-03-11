@@ -15,9 +15,9 @@ Aksara Studios is a collection of Roblox scripts developed as a personal learnin
 
 ## Scripts
 
-| Game | Description | Language |
-|------|-------------|----------|
-| Sambung Kata | Auto answer for Sambung Kata word game | Luau |
+| Game | Description |
+|------|-------------|
+| Sambung Kata | Auto answer for Sambung Kata word game |
 
 More scripts will be added in the future.
 
