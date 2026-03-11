@@ -42,8 +42,6 @@ Refer to individual directories for game-specific instructions.
 
 ---
 
----
-
 ## License
 
 This project is not licensed for redistribution or commercial use.  
